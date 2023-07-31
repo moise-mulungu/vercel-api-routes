@@ -8,7 +8,7 @@
                     "value": "https://vercel-api-routes-829z-git-setup-moise-mulungu.vercel.app/"
                 }
             ],
-            "destination": "https://moise-practice.vercel.app/api/:path*"
+            "destination": "https://moise-practice.vercel.app/"
         }
     ]
 }
